@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\bin\Debug\1_Solis_HolaNombre.exe.config
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\bin\Debug\1_Solis_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\bin\Debug\1_Solis_HolaNombre.pdb
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\obj\Debug\1_Solis_HolaNombre.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\obj\Debug\1_Solis_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\1_Solis_HolaNombre\1_Solis_HolaNombre\obj\Debug\1_Solis_HolaNombre.pdb
