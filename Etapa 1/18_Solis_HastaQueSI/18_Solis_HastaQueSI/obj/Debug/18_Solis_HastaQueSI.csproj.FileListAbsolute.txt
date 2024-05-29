@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\18_Solis_HastaQueSI\18_Solis_HastaQueSI\bin\Debug\18_Solis_HastaQueSI.exe.config
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\18_Solis_HastaQueSI\18_Solis_HastaQueSI\bin\Debug\18_Solis_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\18_Solis_HastaQueSI\18_Solis_HastaQueSI\bin\Debug\18_Solis_HastaQueSI.pdb
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\18_Solis_HastaQueSI\18_Solis_HastaQueSI\obj\Debug\18_Solis_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\18_Solis_HastaQueSI\18_Solis_HastaQueSI\obj\Debug\18_Solis_HastaQueSI.pdb
