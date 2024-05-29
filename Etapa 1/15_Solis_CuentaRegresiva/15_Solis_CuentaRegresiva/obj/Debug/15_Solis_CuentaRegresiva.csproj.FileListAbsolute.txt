@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\bin\Debug\15_Solis_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\bin\Debug\15_Solis_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\bin\Debug\15_Solis_CuentaRegresiva.pdb
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\obj\Debug\15_Solis_CuentaRegresiva.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\obj\Debug\15_Solis_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\15_Solis_CuentaRegresiva\15_Solis_CuentaRegresiva\obj\Debug\15_Solis_CuentaRegresiva.pdb

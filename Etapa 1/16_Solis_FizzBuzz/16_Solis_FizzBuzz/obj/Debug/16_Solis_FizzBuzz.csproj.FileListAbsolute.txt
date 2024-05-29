@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\bin\Debug\16_Solis_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\bin\Debug\16_Solis_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\bin\Debug\16_Solis_FizzBuzz.pdb
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\obj\Debug\16_Solis_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\obj\Debug\16_Solis_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 parte 4\Etapa 1\16_Solis_FizzBuzz\16_Solis_FizzBuzz\obj\Debug\16_Solis_FizzBuzz.pdb
