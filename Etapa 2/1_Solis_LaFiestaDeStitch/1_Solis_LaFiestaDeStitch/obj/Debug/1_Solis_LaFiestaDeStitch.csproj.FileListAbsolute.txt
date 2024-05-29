@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\bin\Debug\1_Solis_LaFiestaDeStitch.exe.config
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\bin\Debug\1_Solis_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\bin\Debug\1_Solis_LaFiestaDeStitch.pdb
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\obj\Debug\1_Solis_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\obj\Debug\1_Solis_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\1_Solis_LaFiestaDeStitch\1_Solis_LaFiestaDeStitch\obj\Debug\1_Solis_LaFiestaDeStitch.pdb
