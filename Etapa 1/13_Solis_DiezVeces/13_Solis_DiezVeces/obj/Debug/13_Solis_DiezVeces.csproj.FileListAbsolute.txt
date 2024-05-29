@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\13_Solis_DiezVeces\13_Solis_DiezVeces\bin\Debug\13_Solis_DiezVeces.exe.config
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\13_Solis_DiezVeces\13_Solis_DiezVeces\bin\Debug\13_Solis_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\13_Solis_DiezVeces\13_Solis_DiezVeces\bin\Debug\13_Solis_DiezVeces.pdb
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\13_Solis_DiezVeces\13_Solis_DiezVeces\obj\Debug\13_Solis_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\13_Solis_DiezVeces\13_Solis_DiezVeces\obj\Debug\13_Solis_DiezVeces.pdb
