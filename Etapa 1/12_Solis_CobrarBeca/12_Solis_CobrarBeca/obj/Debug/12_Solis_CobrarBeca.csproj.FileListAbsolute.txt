@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\12_Solis_CobrarBeca\12_Solis_CobrarBeca\bin\Debug\12_Solis_CobrarBeca.exe.config
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\12_Solis_CobrarBeca\12_Solis_CobrarBeca\bin\Debug\12_Solis_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\12_Solis_CobrarBeca\12_Solis_CobrarBeca\bin\Debug\12_Solis_CobrarBeca.pdb
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\12_Solis_CobrarBeca\12_Solis_CobrarBeca\obj\Debug\12_Solis_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\12_Solis_CobrarBeca\12_Solis_CobrarBeca\obj\Debug\12_Solis_CobrarBeca.pdb
