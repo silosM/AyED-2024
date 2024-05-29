@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\bin\Debug\19_Solis_HastaN.exe.config
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\bin\Debug\19_Solis_HastaN.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\bin\Debug\19_Solis_HastaN.pdb
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\obj\Debug\19_Solis_HastaN.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\obj\Debug\19_Solis_HastaN.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\19_Solis_HastaN\19_Solis_HastaN\obj\Debug\19_Solis_HastaN.pdb
