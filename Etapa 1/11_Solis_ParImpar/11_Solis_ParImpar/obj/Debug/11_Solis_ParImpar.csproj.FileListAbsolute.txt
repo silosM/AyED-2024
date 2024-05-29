@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\bin\Debug\11_Solis_ParImpar.exe.config
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\bin\Debug\11_Solis_ParImpar.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\bin\Debug\11_Solis_ParImpar.pdb
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\obj\Debug\11_Solis_ParImpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\obj\Debug\11_Solis_ParImpar.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\11_Solis_ParImpar\11_Solis_ParImpar\obj\Debug\11_Solis_ParImpar.pdb
