@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\bin\Debug\17_Solis_MiPrimerMenuObjetivo.exe.config
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\bin\Debug\17_Solis_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\bin\Debug\17_Solis_MiPrimerMenuObjetivo.pdb
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\obj\Debug\17_Solis_MiPrimerMenuObjetivo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\obj\Debug\17_Solis_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Documents\Laboratorio de 4 Parte 5\Etapa 1\17_Solis_MiPrimerMenuObjetivo\17_Solis_MiPrimerMenuObjetivo\obj\Debug\17_Solis_MiPrimerMenuObjetivo.pdb
