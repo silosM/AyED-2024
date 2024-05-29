@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\bin\Debug\14_Solis_Cumplidos.exe.config
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\bin\Debug\14_Solis_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\bin\Debug\14_Solis_Cumplidos.pdb
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\obj\Debug\14_Solis_Cumplidos.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\obj\Debug\14_Solis_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Laboratio de 4 parte 3\etapa 1\14_Solis_Cumplidos\14_Solis_Cumplidos\obj\Debug\14_Solis_Cumplidos.pdb
