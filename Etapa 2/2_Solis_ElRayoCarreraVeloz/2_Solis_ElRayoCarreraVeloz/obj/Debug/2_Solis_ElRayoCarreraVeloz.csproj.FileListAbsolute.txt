@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\bin\Debug\2_Solis_ElRayoCarreraVeloz.exe.config
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\bin\Debug\2_Solis_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\bin\Debug\2_Solis_ElRayoCarreraVeloz.pdb
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\obj\Debug\2_Solis_ElRayoCarreraVeloz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\obj\Debug\2_Solis_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\2_Solis_ElRayoCarreraVeloz\2_Solis_ElRayoCarreraVeloz\obj\Debug\2_Solis_ElRayoCarreraVeloz.pdb
