@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\bin\Debug\2_Solis_TestVariables.exe.config
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\obj\Debug\2_Solis_TestVariables.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\bin\Debug\2_Solis_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\bin\Debug\2_Solis_TestVariables.pdb
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\obj\Debug\2_Solis_TestVariables.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa0\2_Solis_TestVariables\2_Solis_TestVariables\obj\Debug\2_Solis_TestVariables.pdb
