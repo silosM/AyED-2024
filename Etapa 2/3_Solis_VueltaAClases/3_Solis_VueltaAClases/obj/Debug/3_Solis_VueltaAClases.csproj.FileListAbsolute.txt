@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\bin\Debug\3_Solis_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\bin\Debug\3_Solis_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\bin\Debug\3_Solis_VueltaAClases.pdb
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\obj\Debug\3_Solis_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\obj\Debug\3_Solis_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\3_Solis_VueltaAClases\3_Solis_VueltaAClases\obj\Debug\3_Solis_VueltaAClases.pdb
