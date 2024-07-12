@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\bin\Debug\4_Solis_PixelDreams.exe.config
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\bin\Debug\4_Solis_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\bin\Debug\4_Solis_PixelDreams.pdb
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\obj\Debug\4_Solis_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\obj\Debug\4_Solis_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\4_Solis_PixelDreams\4_Solis_PixelDreams\obj\Debug\4_Solis_PixelDreams.pdb
