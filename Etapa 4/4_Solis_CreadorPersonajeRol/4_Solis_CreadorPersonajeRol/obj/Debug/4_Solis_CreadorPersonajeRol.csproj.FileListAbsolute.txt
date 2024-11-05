@@ -1,0 +1,10 @@
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\bin\Debug\4_Solis_CreadorPersonajeRol.exe.config
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\bin\Debug\4_Solis_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\bin\Debug\4_Solis_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\4_Solis_CreadorPersonajeRol.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\_4_Solis_CreadorPersonajeRol.Form1.resources
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\_4_Solis_CreadorPersonajeRol.Properties.Resources.resources
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\4_Solis_CreadorPersonajeRol.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\4_Solis_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\4_Solis_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\4_Solis_CreadorPersonajeRol\4_Solis_CreadorPersonajeRol\obj\Debug\_4_Solis_CreadorPersonajeRol.Form2.resources
