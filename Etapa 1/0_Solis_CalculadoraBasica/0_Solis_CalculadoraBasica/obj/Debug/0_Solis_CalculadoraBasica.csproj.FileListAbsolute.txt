@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\bin\Debug\0_Solis_CalculadoraBasica.exe.config
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\bin\Debug\0_Solis_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\bin\Debug\0_Solis_CalculadoraBasica.pdb
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\obj\Debug\0_Solis_CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\obj\Debug\0_Solis_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\0_Solis_CalculadoraBasica\0_Solis_CalculadoraBasica\obj\Debug\0_Solis_CalculadoraBasica.pdb
