@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\1_Solis_LaSumaAnterior\1_Solis_LaSumaAnterior\bin\Debug\1_Solis_LaSumaAnterior.exe.config
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\1_Solis_LaSumaAnterior\1_Solis_LaSumaAnterior\bin\Debug\1_Solis_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\1_Solis_LaSumaAnterior\1_Solis_LaSumaAnterior\bin\Debug\1_Solis_LaSumaAnterior.pdb
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\1_Solis_LaSumaAnterior\1_Solis_LaSumaAnterior\obj\Debug\1_Solis_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Solis624\Etapa1\1_Solis_LaSumaAnterior\1_Solis_LaSumaAnterior\obj\Debug\1_Solis_LaSumaAnterior.pdb
