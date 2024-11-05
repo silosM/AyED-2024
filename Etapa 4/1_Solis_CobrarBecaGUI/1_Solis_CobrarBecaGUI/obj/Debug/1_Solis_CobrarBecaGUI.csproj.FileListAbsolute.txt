@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\bin\Debug\1_Solis_CobrarBecaGUI.exe.config
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\bin\Debug\1_Solis_CobrarBecaGUI.exe
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\bin\Debug\1_Solis_CobrarBecaGUI.pdb
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\_1_Solis_CobrarBecaGUI.Form1.resources
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\_1_Solis_CobrarBecaGUI.Properties.Resources.resources
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\1_Solis_CobrarBecaGUI.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\1_Solis_CobrarBecaGUI.exe
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\1_Solis_CobrarBecaGUI.pdb
+c:\users\alumno.et37\documents\1_Solis_CobrarBecaGUI\1_Solis_CobrarBecaGUI\obj\Debug\1_Solis_CobrarBecaGUI.csprojResolveAssemblyReference.cache

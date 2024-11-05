@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\bin\Debug\3_Solis_TerminosYCondiciones.exe.config
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\bin\Debug\3_Solis_TerminosYCondiciones.exe
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\bin\Debug\3_Solis_TerminosYCondiciones.pdb
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\3_Solis_TerminosYCondiciones.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\_3_Solis_TerminosYCondiciones.Form1.resources
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\_3_Solis_TerminosYCondiciones.Properties.Resources.resources
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\3_Solis_TerminosYCondiciones.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\3_Solis_TerminosYCondiciones.exe
+c:\users\alumno.et37\documents\3_Solis_TerminosYCondiciones\3_Solis_TerminosYCondiciones\obj\Debug\3_Solis_TerminosYCondiciones.pdb

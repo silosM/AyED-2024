@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\bin\Debug\2_Solis_LoginSimple.exe.config
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\bin\Debug\2_Solis_LoginSimple.exe
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\bin\Debug\2_Solis_LoginSimple.pdb
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\2_Solis_LoginSimple.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\_2_Solis_LoginSimple.Form1.resources
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\_2_Solis_LoginSimple.Properties.Resources.resources
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\2_Solis_LoginSimple.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\2_Solis_LoginSimple.exe
+c:\users\alumno.et37\documents\2_Solis_LoginSimple\2_Solis_LoginSimple\obj\Debug\2_Solis_LoginSimple.pdb
