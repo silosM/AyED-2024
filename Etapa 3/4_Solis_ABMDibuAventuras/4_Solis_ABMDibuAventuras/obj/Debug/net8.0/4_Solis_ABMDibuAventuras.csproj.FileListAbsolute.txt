@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\bin\Debug\net8.0\4_Solis_ABMDibuAventuras.exe
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\bin\Debug\net8.0\4_Solis_ABMDibuAventuras.deps.json
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\bin\Debug\net8.0\4_Solis_ABMDibuAventuras.runtimeconfig.json
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\bin\Debug\net8.0\4_Solis_ABMDibuAventuras.dll
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\bin\Debug\net8.0\4_Solis_ABMDibuAventuras.pdb
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.AssemblyInfo.cs
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.dll
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\refint\4_Solis_ABMDibuAventuras.dll
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.pdb
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\4_Solis_ABMDibuAventuras.genruntimeconfig.cache
+C:\Users\Admin\Documents\4_Solis_ABMDibuAventuras\4_Solis_ABMDibuAventuras\obj\Debug\net8.0\ref\4_Solis_ABMDibuAventuras.dll

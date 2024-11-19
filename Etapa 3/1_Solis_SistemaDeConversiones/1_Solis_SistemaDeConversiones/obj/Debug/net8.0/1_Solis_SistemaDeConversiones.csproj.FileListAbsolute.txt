@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\bin\Debug\net8.0\1_Solis_SistemaDeConversiones.exe
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\bin\Debug\net8.0\1_Solis_SistemaDeConversiones.deps.json
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\bin\Debug\net8.0\1_Solis_SistemaDeConversiones.runtimeconfig.json
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\bin\Debug\net8.0\1_Solis_SistemaDeConversiones.dll
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\bin\Debug\net8.0\1_Solis_SistemaDeConversiones.pdb
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.AssemblyInfo.cs
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.dll
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\refint\1_Solis_SistemaDeConversiones.dll
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.pdb
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\1_Solis_SistemaDeConversiones.genruntimeconfig.cache
+C:\Users\Admin\Documents\1_Solis_SistemaDeConversiones\1_Solis_SistemaDeConversiones\obj\Debug\net8.0\ref\1_Solis_SistemaDeConversiones.dll
