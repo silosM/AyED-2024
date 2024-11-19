@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\bin\Debug\net8.0\7_Solis_ContratacionSoft.exe
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\bin\Debug\net8.0\7_Solis_ContratacionSoft.deps.json
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\bin\Debug\net8.0\7_Solis_ContratacionSoft.runtimeconfig.json
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\bin\Debug\net8.0\7_Solis_ContratacionSoft.dll
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\bin\Debug\net8.0\7_Solis_ContratacionSoft.pdb
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.AssemblyInfo.cs
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.dll
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\refint\7_Solis_ContratacionSoft.dll
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.pdb
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\7_Solis_ContratacionSoft.genruntimeconfig.cache
+C:\Users\Admin\Documents\7_Solis_ContratacionSoft\7_Solis_ContratacionSoft\obj\Debug\net8.0\ref\7_Solis_ContratacionSoft.dll
