@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\10_Solis_MatrizAleatoria\10_Solis_MatrizAleatoria\obj\Debug\net8.0\10_Solis_MatrizAleatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\10_Solis_MatrizAleatoria\10_Solis_MatrizAleatoria\obj\Debug\net8.0\10_Solis_MatrizAleatoria.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\10_Solis_MatrizAleatoria\10_Solis_MatrizAleatoria\obj\Debug\net8.0\10_Solis_MatrizAleatoria.AssemblyInfo.cs
+C:\Users\Admin\Documents\10_Solis_MatrizAleatoria\10_Solis_MatrizAleatoria\obj\Debug\net8.0\10_Solis_MatrizAleatoria.csproj.CoreCompileInputs.cache
