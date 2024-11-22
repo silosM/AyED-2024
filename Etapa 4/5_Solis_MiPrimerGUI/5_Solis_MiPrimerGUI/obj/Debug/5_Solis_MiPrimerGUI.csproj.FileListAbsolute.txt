@@ -1,0 +1,13 @@
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\bin\Debug\5_Solis_MiPrimerGUI.exe.config
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\bin\Debug\5_Solis_MiPrimerGUI.exe
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\bin\Debug\5_Solis_MiPrimerGUI.pdb
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\5_Solis_MiPrimerGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\5_Solis_MiPrimerGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\5_Solis_MiPrimerGUI.exe
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\5_Solis_MiPrimerGUI.pdb
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.SUMA.resources
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.RESTA.resources
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.MULTIPLICACION.resources
+C:\Users\alumno.ET37\Documents\5_Solis_MiPrimerGUI\5_Solis_MiPrimerGUI\obj\Debug\_5_Solis_MiPrimerGUI.DIVISION.resources
